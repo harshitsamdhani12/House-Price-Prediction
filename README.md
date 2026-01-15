@@ -1,0 +1,2 @@
+House Price Prediction Model
+Analyzed House price data and developed a predictive model. Used histograms, bar charts, and correlation analysis to identify key predictors, reducing the feature set by 15% while maintaining performance. Discovered that log(House Price) is approximately linearly related with features. Developed a multivariable linear regression model to predict house price ranges within a 95% confidence interval.
